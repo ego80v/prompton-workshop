@@ -1,0 +1,21 @@
+# this is a sample for keys used in this code repo. 
+# Please rename it to .env before you can use it
+
+OPENAI_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxx
+OPENAI_API_BASE=https://<your service name>.openai.azure.com/
+DEPLOYMENT_NAME=gpt-35-turbo
+DEPLOYMENT_NAME_16K=gpt-35-turbo-16k
+
+OPENAI_API_TYPE=azure
+OPENAI_API_VERSION=2023-07-01-preview
+DOCUMENT_MODEL_NAME=curie-search-doc
+QUERY_MODEL_NAME=curie-query-doc
+COMPLETIONS_MODEL=text-davinci-003
+
+# AZURE_SPEECH
+AZURE_SPEECH_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+AZURE_SPEECH_REGION=koreacentral
+AZURE_SPEECH_LANGUAGE=ko-KR
+
+# KAKAO Developer API
+KAKAO_REST_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
